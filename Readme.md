@@ -24,7 +24,6 @@ Currently pursuing my degree in Computer Science from Farook College, Kerala.
 [![trophy](https://github-profile-trophy.vercel.app/?username=NIKHILKRISHNAK&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NIKHILKRISHNAK&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NIKHILKRISHNAK&show_icons=true&theme=radical)  
 
 ---
