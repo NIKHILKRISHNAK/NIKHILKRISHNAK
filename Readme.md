@@ -10,7 +10,7 @@ Currently pursuing my degree in Computer Science from Farook College, Kerala.
 - CSS
 - JS
 - C
-
+- Python
 ---
 
 ### About Me:
