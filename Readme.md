@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Nikhil Krishna.K
-### Valamangalam, Pulpatta, Kerala, India.
+### Valamangalam, Pulpatta, Malappuram, Kerala.
 Currently pursuing my degree in Computer Science from Farook College, Kerala.
 
 ---
 
 ### Skills:
-- Web Dev
+- Django
 - HTML
 - CSS
 - JS
