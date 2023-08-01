@@ -11,6 +11,7 @@ Currently pursuing my degree in Computer Science from Farook College, Kerala.
 - JS
 - C
 - Python
+- React.js
 ---
 
 ### About Me:
